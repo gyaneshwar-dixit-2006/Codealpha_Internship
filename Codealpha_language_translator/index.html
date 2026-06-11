@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TransVerse</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="bg"></div>
+
+<div class="container">
+
+    <h1>TransVerse-Language Translator</h1>
+
+    <div class="card">
+
+        <textarea
+        id="inputText"
+        placeholder="Type something..."
+        ></textarea>
+
+        <div class="selectors">
+
+            <select id="sourceLang">
+                <option value="auto">Detect Language</option>
+            </select>
+
+            <button id="swapBtn">⇄</button>
+
+            <select id="targetLang"></select>
+
+        </div>
+
+        <button id="translateBtn">
+            Translate
+        </button>
+
+        <div class="output-box">
+
+            <h3>Translated Text</h3>
+
+            <textarea
+            id="outputText"
+            readonly
+            ></textarea>
+
+            <div class="actions">
+
+                <button id="copyBtn">
+                    📋 Copy
+                </button>
+
+                <button id="speakBtn">
+                    🔊 Speak
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

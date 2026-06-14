@@ -1,14 +1,14 @@
-🤖 FAQ Chatbot
+# 🤖 FAQ Chatbot
 
 A smart and interactive FAQ Chatbot developed as part of the CodeAlpha Internship Program. The chatbot provides automated responses to frequently asked questions through a simple and user-friendly interface.
 
-🚀 Features
+# 🚀 Features
 Interactive chat interface
 Instant FAQ responses
 Responsive design
 Easy customization
 Fast and efficient performance
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 HTML
 CSS

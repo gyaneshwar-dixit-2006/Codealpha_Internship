@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "Who created Python?",
+      "answer": "Python was created by Guido van Rossum."
+    },
+    {
+      "question": "What is Artificial Intelligence?",
+      "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+    },
+    {
+      "question": "What is NLP?",
+      "answer": "NLP stands for Natural Language Processing."
+    },
+    {
+      "question": "What is Machine Learning?",
+      "answer": "Machine Learning enables computers to learn from data without being explicitly programmed."
+    },
+    {
+      "question": "What is Data Science?",
+      "answer": "Data Science is the process of extracting insights from data."
+    }
+  ]
+}
